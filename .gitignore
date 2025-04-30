@@ -1,0 +1,7 @@
+accounts.db
+*.twscache
+__pycache__/
+*.log
+.env
+*.sqlite3
+
